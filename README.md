@@ -2,12 +2,7 @@
 
 
 
-## 🌟 Fun Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280" alt="female coder animated">
-</p>
 
----
 
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">Aspiring Data Scientist | Python Developer | Tech Enthusiast</h3>
@@ -63,12 +58,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="280" alt="female coder animated">
 </p>
-## 🌟 Fun Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="280" alt="female coder animated">
-</p>
+
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280" alt="female coder animated">
+</p>
 
 ---
 
