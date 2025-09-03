@@ -1,4 +1,69 @@
-## Hi there 👋
+<!-- Custom Banner (replace link with your own Canva design if you want) -->
+<p align="center">
+  <img src="https://i.ibb.co/tc3DytC/github-banner.png" alt="Shivani Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Shivani</h1>
+<h3 align="center">Aspiring Data Scientist | Python Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding girl gif">
+</p>
+
+---
+
+## 🔭 About Me
+- 🎓 B.Tech CSE Graduate  
+- 🐍 Currently learning **Python, Data Science & ML**  
+- 📊 Exploring **Data Visualization, Automation & Analytics**  
+- 🌱 Interested in **AI, Web Dev, and Cloud**  
+- 💡 Curious mind, always exploring new tech  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B) 
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) 
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) 
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-333?style=flat&logo=microsoft-powerpoint)
+
+---
+
+## 🚀 Projects
+> Currently documenting my journey with code 🚧  
+Here are some repos you can check:  
+
+- 🔹 [Basic Portfolio Website](https://github.com/YOUR_USERNAME/REPO1)  
+- 🔹 [Simple Calculator in C++](https://github.com/YOUR_USERNAME/REPO2)  
+- 🔹 [Data Structures Practice](https://github.com/YOUR_USERNAME/REPO3)  
+
+*(Replace with your actual repo links!)*  
+
+---
+
+## 🌟 Fun Corner
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280" alt="keep coding gif">
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From [Shivani](https://github.com/YOUR_USERNAME)
+</p>## Hi there 👋
 
 <!--
 **shivanichy/shivanichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
